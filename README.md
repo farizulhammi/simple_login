@@ -1,5 +1,4 @@
 ### simple login
 
-```bash
-database/simple_login.sql
-```
+username & password : 1
+use tes.php to create a password
