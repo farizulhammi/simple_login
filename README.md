@@ -1,4 +1,5 @@
 ### simple login
 
-username & password : 1
-use tes.php to create a password
+username & password : 1,
+<br>
+tes.php to create a password
